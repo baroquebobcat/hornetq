@@ -405,6 +405,8 @@ public final class HornetQMapMessage extends HornetQMessage implements MapMessag
       return map.containsProperty(new SimpleString(name));
    }
 
+
+
    // HornetQRAMessage overrides ----------------------------------------
 
    @Override
